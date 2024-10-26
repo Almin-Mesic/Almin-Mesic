@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Almin-Mesic
+- 👀 I’m interested in software development and quality assurance
+- 🌱 I’m currently learning c#
+- 📫 You can reach me via linkedin
